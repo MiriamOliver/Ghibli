@@ -1,8 +1,23 @@
 html, body {
-    margin: 0;
-    background-color: #ddd;
+    margin: 3vh;
+    background-color: #eee;
 }
 
 img {
-    width: 150px;
+    width: 30%;
+    margin: 0 6vh 3vh 0;
+}
+
+.infopelicula .peli{
+    display: flex;
+    vertical-align: middle;
+    margin-top: 10vh;
+    width: 90%;
+}
+
+ul{
+    list-style-type: none;
+}
+.peli li{
+    margin-bottom: 3rem;
 }
